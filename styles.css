@@ -1,0 +1,75 @@
+.headerstuff {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+
+.box1 {
+    background-color: #1F2937;
+    display: flex;
+}
+
+.box1 > div {
+
+}
+
+.box2 {
+    display: flex;
+}
+
+.box2 > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    
+}
+
+button {
+    color: #3882F6;
+}
+
+.header-links {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+    font-size: 18px;
+    color: #F9FAF8;
+}
+
+.h-links {
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    justify-self: left;
+}
+
+.secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.box3 {
+    background-color: #E5E7EB;
+    justify-content: center;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.citation {
+    font-weight: bold;
+    justify-content: right;
+}
